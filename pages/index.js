@@ -57,7 +57,7 @@ export default function Home() {
           </div>
         </header>
 
-        <footer className="bg-white">
+        <footer className="bg-white mt-24">
           <div className="max-w-screen-xl px-4 py-12 mx-auto space-y-8 overflow-hidden sm:px-6 lg:px-8">
             <nav className="flex flex-wrap justify-center -mx-5 -my-2">
               <div className="px-5 py-2">
@@ -126,7 +126,7 @@ export default function Home() {
                 </svg>
               </a>
             </div>
-            <p className="mt-8 text-base leading-6 text-center text-gray-400">© 2021 Chris Taxi Services, LLC. All rights reserved.</p>
+            <p className="mt-8 text-base leading-6 text-center text-gray-400">© 2021 A New Dawn.</p>
           </div>
         </footer>
       </main>
