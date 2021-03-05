@@ -77,7 +77,7 @@ export default function Home() {
               </div>
               <div className="px-5 py-2">
                 <a href="#" className="text-base leading-6 text-gray-500 hover:text-gray-900">
-                  Pricing
+                  Policy
                 </a>
               </div>
               <div className="px-5 py-2">
@@ -87,7 +87,7 @@ export default function Home() {
               </div>
               <div className="px-5 py-2">
                 <a href="#" className="text-base leading-6 text-gray-500 hover:text-gray-900">
-                  Terms
+                  Legal
                 </a>
               </div>
             </nav>
