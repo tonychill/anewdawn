@@ -91,13 +91,13 @@ export default function Home() {
                 </a>
               </div>
             </nav>
-            <p href="#" className="text-base leading-6 text-gray-500 hover:text-gray-900 text-center">
+            {/* <p href="#" className="text-base leading-6 text-gray-500 hover:text-gray-900 text-center">
               A member of the{" "}
               <a className="text-blue-400" href="https://www.enjoythevi.com">
                 @enjoythevi
               </a>{" "}
               family
-            </p>
+            </p> */}
             <div className="flex justify-center mt-8 space-x-6">
               <a href="#" className="text-gray-400 hover:text-blue-600">
                 <span className="sr-only">Facebook</span>
